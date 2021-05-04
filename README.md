@@ -1,5 +1,5 @@
 <!--### Hi there 👋-->
-![ShouChenICU's GitHub Starts](https://github-readme-stats-shouchenicu.vercel.app/api?username=ShouChenICU&count_private=true&hide_title=true&hide_border=true&show_icons=true&theme=algolia)
+![ShouChenICU's GitHub Starts](https://github-readme-stats-shouchenicu.vercel.app/api?username=ShouChenICU&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=algolia)
 # :sparkling_heart: Hello, welcome to my homepage
 - 🌱 I’m currently learning Java
 
