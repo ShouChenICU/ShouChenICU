@@ -1,23 +1,12 @@
-<!--### Hi there 👋-->
-![ShouChenICU's GitHub Starts](https://github-readme-stats-shouchenicu.vercel.app/api?username=ShouChenICU&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=algolia)
-# :sparkling_heart: Hello, welcome to my homepage
-- 🌱 I'm a programmer mainly using Java
-- 🐧 I'm a Linux lover
-- 🎧 I'm a HIFI enthusiast
-- 🐱 I want to have a cat
-- 🏳‍🌈 LGBTQ+ friendly
+![ShouChenICU's GitHub Stats](https://github-readme-stats-shouchenicu.vercel.app/api?username=ShouChenICU&count_private=true&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=merko)
 
-<!--
-**ShouChenICU/ShouChenICU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :sparkles: Hello, Welcome to my GitHub Profile
+- 💼 Product Director @ `Adofaer` | Full-stack Developer
+- 🛠 Tech Stack: JavaScript/TypeScript (Primary) | Node.js
+- 🐧 Proficient Linux User & Open Source Enthusiast
+- 🎧 Music & HIFI Audiophile | Gear Collector
+- 🚀 Author of **FastSend** ([View Project](https://github.com/ShouChenICU/FastSend))
+- 🏳️‍🌈 LGBTQ+ Friendly Supporter
+- 🐱 Professional Virtual Cat Owner | Future Cat Person (Pre-service)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :fire: [Personal Blog](https://shouchen.blog/)
